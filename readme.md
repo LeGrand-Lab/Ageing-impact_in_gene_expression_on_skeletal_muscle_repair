@@ -1,13 +1,5 @@
-<!DOCTYPE html>
+# Ageing-impact_in_gene_expression_on_skeletal_muscle_repair
 
-<html>
-
-  <head>
-
-    <meta charset="utf-8" />
-    <title>Project: Ageing-impact_in_gene_expression_on_skeletal_muscle_repair</title>
-  </head>
-  <body>
   Analysis Old vs Young of bulk RNAseq on 6 cells type (sort by FACs, ECs, FAPs, MuSCs, Neutrophile,  Inflammatory-Mac and Resolving Macrophages) and 4     time point (D0 and in muscle regeneration D2, D4 and D7).
 
   Start with the report GeneDEsigniOnMoreOneTimePoint.html and next go on fgseaReport.html.
@@ -24,5 +16,4 @@
   johaGL Phd student CNRS université de Bordeaux
 
   Sidy2015 Bioinformatique Engineer Institut Neuromyogène INMG
-  </body>
-</html>
+
