@@ -4,14 +4,19 @@
 
   Start with the report GeneDEsigniOnMoreOneTimePoint.html and next go on fgseaReport.html.
 
-  GeneDEsigniOneMoreTimePoint : Report on DEG celltype_day_Old vs celltype_day_Young, global statistic and horizontal point of view
-  tableDEGsignificantUpDown.html : Table of all DEG 
+  - GeneDEsigniOneMoreTimePoint : Report on DEG celltype_day_Old vs celltype_day_Young, global statistic and horizontal point of view
+  
+  - tableDEGsignificantUpDown.html : Table of all DEG 
 
-  fgseaReport.html : Report on fGSEA analyse, global statistic, overview with reactome hierarchie point of view, horizontal point of view and link to pathway information (heatmap, geneset dynamic) .
+  - fgseaReport.html : Report on fGSEA analyse, global statistic, overview with reactome hierarchie point of view, horizontal point of view and link to pathway information (heatmap, geneset dynamic).
 
 ## Visualisation files
 
 Download ZIP ( warning 557 Mo)
+
+## Assosiated code
+
+https://github.com/LeGrand-Lab/BulkAnalysis_plusNetwork
 
 ## Contributor
 
